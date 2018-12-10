@@ -33,3 +33,7 @@ md just to make it nicer and possibly to link to related projects
 * Game where you can add your own music and it influences the gameplay
 
 * Something that helps you pick a charity to contribute to and ways how.
+
+* Writing comments by speaking them out
+
+* keyboard only FPS
