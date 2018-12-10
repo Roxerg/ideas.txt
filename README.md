@@ -1,4 +1,4 @@
-# ideas.txt
+![img](https://github.com/Roxerg/ideas.txt/blob/master/ideas.png "ideas.txt")
 
 A list of short descriptions of ideas however dumb or smart that I *might* just do at some point. Adding this fancy
 md just to make it nicer and possibly to link to related projects 
