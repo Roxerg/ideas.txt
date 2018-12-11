@@ -37,3 +37,5 @@ md just to make it nicer and possibly to link to related projects
 * Writing comments by speaking them out
 
 * keyboard only FPS
+
+* Machine Learning app that tells you what writer you're most like. (Nature Language Processing, sentence len, word freq, etc.) 
