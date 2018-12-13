@@ -39,3 +39,5 @@ md just to make it nicer and possibly to link to related projects
 * keyboard only FPS
 
 * Machine Learning app that tells you what writer you're most like. (Nature Language Processing, sentence len, word freq, etc.) 
+
+* For portfolio repository: clicking a hyperlink fades in/slides in bunch of varied-sized boxes under the main div with project descriptions
