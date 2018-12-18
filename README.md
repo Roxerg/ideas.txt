@@ -43,5 +43,8 @@ md just to make it nicer and possibly to link to related projects
 * For portfolio repository: clicking a hyperlink fades in/slides in bunch of varied-sized boxes under the main div with project descriptions
 
 * Tinder but for animal adoption from shelters
+- Can "love" animal profile, ranking them for everyone to see
+- Alternatively, can actually contact the shelter via text, messenger, email, etc. 
+
 
 * program/language/compiler/anything that reads .yeet files
