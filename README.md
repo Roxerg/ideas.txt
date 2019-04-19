@@ -48,3 +48,5 @@ md just to make it nicer and possibly to link to related projects
 
 
 * program/language/compiler/anything that reads .yeet files
+
+* haiku/poem generator with Markov chains with weights made by analyzing poetry. Could try to mix in internet posts. Alternatively, could just make an average 4chan post generator.
