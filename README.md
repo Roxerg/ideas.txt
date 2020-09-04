@@ -54,3 +54,5 @@ md just to make it nicer and possibly to link to related projects
 * pubtracker / crawltracker - tracks your and other participants' pub crawl process
 
 * Game about a post office space station 
+
+* Building game with a nature spin - Permaculture focus, where you do not need to do much conventional maintenace, but need to form an ecosystem/food chain/etc
