@@ -56,3 +56,7 @@ md just to make it nicer and possibly to link to related projects
 * Game about a post office space station 
 
 * Building game with a nature spin - Permaculture focus, where you do not need to do much conventional maintenace, but need to form an ecosystem/food chain/etc
+
+* Solarpunk Sim/RTS that avoids quantifying progress conventionally (that is, with numbers)
+
+* "Fuck You, Here's a Shotgun" - classic-style FPS in which all you get is a shotgun. 
