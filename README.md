@@ -60,3 +60,5 @@ md just to make it nicer and possibly to link to related projects
 * Solarpunk Sim/RTS that avoids quantifying progress conventionally (that is, with numbers)
 
 * "Fuck You, Here's a Shotgun" - classic-style FPS in which all you get is a shotgun. 
+
+* Browser Plug-In that forces you to donate to a charity to access or reply to threads on Twitter, so you would stop arguing with strangers that are wrong online, and actually help the world somehow
